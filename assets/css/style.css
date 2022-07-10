@@ -147,8 +147,23 @@ footer {
 
 #history-image {
     clear: both;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 #history-image > img {
     width: 100%;
+    
+}
+
+#history-text {
+    text-align: center;
+
+    padding-top: 30px;
+    width: 88%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
