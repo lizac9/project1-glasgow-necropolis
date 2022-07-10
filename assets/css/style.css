@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&family=IM+Fell+English&family=Jim+Nightshade&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +19,7 @@ h1 {
     color: #3a3a3a;
 }
 
-#logo{
+#logo {
     float: left;
     font-size: 230%;
     margin-left: 30px;
@@ -31,7 +32,8 @@ h1 {
     /* letter-spacing: ; */
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -76,10 +78,22 @@ h1 {
 
 /* creates the level of zoom for glasgow-necro image*/
 @keyframes glasgow-necro-zoom {
-    from{
+    from {
         transform: scale(1);
     }
+
     to {
         transform: scale(1.1);
     }
+}
+
+#location {
+    height: 400px;
+
+    padding-top: 30px;
+    width: 33%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
