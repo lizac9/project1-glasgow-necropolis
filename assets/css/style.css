@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&family=IM+Fell+English&family=Jim+Nightshade&display=swap');
-
 * {
     margin: 0;
     padding: 0;
@@ -7,19 +6,50 @@
 }
 
 body {
-    font-family: Grenze Gotisch, sans-serif;
+    font-family: IM Fell English, sans-serif;
     font-weight: 200;
     color: #3a3a3a;
 }
 
 /* headings and logo*/
 
-h1,h2 {
-    
-
+h1 {
+    font-family: Grenze Gotisch, sans-serif;
+    color: #3a3a3a;
 }
 
 #logo{
     float: left;
     font-size: 230%;
+    margin-left: 30px;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    /* letter-spacing: ; */
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
