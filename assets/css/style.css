@@ -53,3 +53,33 @@ h1 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* Glasgow Necro Image */
+
+#glasgow-necro-outer {
+    height: 1675px;
+    width: 2053px;
+    overflow: hidden;
+
+}
+
+#glasgow-necro {
+    height: 50%;
+    width: 50%;
+    background: url('../images/glasgow-necro.JPG') no-repeat center center;
+    /* animates zoom effect on loading page */
+    animation-name: glasgow-necro-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
+}
+
+/* creates the level of zoom for glasgow-necro image*/
+@keyframes glasgow-necro-zoom {
+    from{
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+}
