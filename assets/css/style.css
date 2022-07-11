@@ -119,7 +119,7 @@ h1 {
     border: 2px solid #36454F;
     margin-bottom: 150px;
     opacity: 0.8;
-    
+
     text-align: center;
     margin: 0 auto;
 }
@@ -150,14 +150,14 @@ footer {
 #history-image {
     clear: both;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
-#history-image > img {
+#history-image>img {
     width: 100%;
-    
+
 }
 
 #history-text {
@@ -175,25 +175,29 @@ footer {
 /* For larger to medium screens size from 1200px wide and down*/
 
 @media screen and (max-width:1200px) {
-    #glasgow-necro-outer, #glasgow-necro {
+
+    #glasgow-necro-outer,
+    #glasgow-necro {
         width: 85%;
         height: 400px;
         margin: 0 auto;
     }
 
-    #location{
+    #location {
         width: 100%;
         float: left;
-        padding: 0;
+
     }
-/* how to center the map ??? */
-    #map-wrapper, #map {
+
+    /* how to center the map ??? */
+    #map-wrapper,
+    #map {
         width: 85%;
         height: 400px;
         margin: 0 auto;
     }
 }
- 
+
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width:950px) {
     #menu {
@@ -203,4 +207,103 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #glasgow-necro-outer,
+    #glasgow-necro {
+        width: 85%;
+        height: 400px;
+        margin: 0 auto;
+    }
+
 }
+
+/* Form: Book A Tour */
+
+#book-tour {
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    justify-content: center;
+}
+
+#book-form {
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    padding: 0 auto;
+    color: #f5f5f5;
+    border-radius: 10px;
+    font-size: 100%;
+    display: block;
+}
+
+#book-form>h2 {
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+label {
+    margin-left: 10px;
+}
+
+.text-input {
+    display: block;
+    width: 80%;
+    height: 30px;
+    letter-spacing: 2px;
+    margin: 5px 0 20px 10px;
+    padding-left: 5px;
+    background-color: transparent;
+    font-size: 80%;
+    border: 1px solid #f5f5f5;
+    border-radius: 5px;
+    color: #aca7cb;
+}
+
+.text-input:hover {
+    background-color: #9e9d9d;
+    box-shadow: 1px 1px 1px #bcbcbc;
+}
+
+#button-box {
+    display: block;
+    height: 50px;
+    width: 20%;
+    justify-content: left;
+    margin: 20px 0 0 10px;
+}
+
+.button {
+    height: 30px;
+    width: 65px;
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 80%;
+    text-align: center;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    color: #303030;
+}
+
+.button:hover {
+    background-color: #e5e5e5;
+}
+
+#book-form {
+    width: 100%;
+    padding: 10px 0 0 0;
+    display: block;
+}
+
+#button-box {
+    width: 90%;
+    justify-content: left;
+    margin: 30px 0 0 10px;
+}
+
+.button {
+    margin: 5px 40px 0 0;
+    border-radius: 2px;
+}
+
