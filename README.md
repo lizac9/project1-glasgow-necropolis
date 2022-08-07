@@ -9,12 +9,12 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 ## Features:
 
 ### UI/UX:
-- Colour Scheme:
-The main colours used are in a grey scale White and Grey. The text is pulled the text forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website, maintaining a balance and consistency throughout. 
+**Colour Scheme:**
+- The main colours used are in a grey scale. The text is pulled the text forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website, maintaining a balance and consistency throughout. 
 In the event of creating print media, the previous use of grey scale in the “branding” of the Necropolis will be far more cost effective in printing and designing expenses. 
 
-- Typography:
-The IM Fell English font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The website header uses Grenze Gotish font with sans-serif as backup. The fonts stylised but tidy and legible appearance were my reasons for choosing it for this website. This font compliments the visual atmosphere of the Necropolis itself, without being too distracting.
+**Typography:**
+- The IM Fell English font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The website header uses Grenze Gotish font with sans-serif as backup. The fonts stylised but tidy and legible appearance were my reasons for choosing it for this website. This font compliments the visual atmosphere of the Necropolis itself, without being too distracting.
 
 ### Existing Features:
 
