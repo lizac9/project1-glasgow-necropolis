@@ -12,72 +12,75 @@
 </head>
 
 <body>
-    <header>
-        <a href="index.html">
-            <h1 id="logo">Glasgow Necropolis</h1>
-        </a>
-        <nav>
-            <ul id="menu">
+    <main class="form-grid">
+        <header>
+            <a href="index.html">
+                <h1 id="logo">Glasgow Necropolis</h1>
+            </a>
+            <nav>
+                <ul id="menu">
+                    <li>
+                        <a href="form.html" class="active">Book a Tour</a>
+                    </li>
+                    <li>
+                        <a href="history.html">History</a>
+                    </li>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <!--Book a Tour-->
+        <section id="book-tour">
+            <form method="get" action="https://formdump.codeinstitute.net/" id="book-form"></form>
+            <h2>Book a Tour</h2>
+            <!-- Text Input Fields -->
+            <label for="fname">First Name</label>
+            <input id="fname" name="first_name" type="text" class="text-input" required>
+
+            <label for="lname">Last Name</label>
+            <input id="lname" name="last_name" type="text" class="text-input" required>
+
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" class="text-input" required>
+
+            <!--Queries-->
+            <label for="queries">Queries:</label>
+            <textarea name="other-queries" id="queries" cols="20" rows="20" class="queries-box"></textarea>
+
+            <!--Form Buttons-->
+            <div id="button-box">
+                <input type="submit" value="Book" class="button">
+                <input type="reset" value="Cancel" class="button">
+            </div>
+            </form>
+        </section>
+
+        <footer>
+            <ul class="social-networks">
                 <li>
-                    <a href="form.html" class="active">Book a Tour</a>
+                    <a href="https://facebook.com" target="_blank" rel="noopener"
+                        aria-label="Visit our Facebook page (opens in a new tab)"><i
+                            class="fa-brands fa-facebook-square"></i></a>
                 </li>
                 <li>
-                    <a href="history.html">History</a>
+                    <a href="https://twitter.com" target="_blank" rel="noopener"
+                        aria-label="Visit our Twitter page (opens in a new tab)"><i
+                            class="fa-brands fa-twitter"></i></a>
                 </li>
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="https://instagram.com" target="_blank" rel="noopener"
+                        aria-label="Visit our Instagram page (opens in a new tab)"><i
+                            class="fa-brands fa-instagram"></i></a>
                 </li>
             </ul>
-        </nav>
-    </header>
+        </footer>
 
-    <!--Book a Tour-->
-    <section id="book-tour">
-        <form method="get" action="https://formdump.codeinstitute.net/" id="book-form"></form>
-        <h2>Book a Tour</h2>
-        <!-- Text Input Fields -->
-        <label for="fname">First Name</label>
-        <input id="fname" name="first_name" type="text" class="text-input" required>
-
-        <label for="lname">Last Name</label>
-        <input id="lname" name="last_name" type="text" class="text-input" required>
-
-        <label for="email">Email Address</label>
-        <input type="email" id="email" name="email_address" class="text-input" required>
-
-        <!--Queries-->
-        <label for="queries">Queries:</label>
-        <textarea name="other-queries" id="queries" cols="20" rows="20" class="queries-box"></textarea>
-
-        <!--Form Buttons-->
-        <div id="button-box">
-            <input type="submit" value="Book" class="button">
-            <input type="reset" value="Cancel" class="button">
-        </div>
-        </form>
-    </section>
-
-    <footer>
-        <ul class="social-networks">
-            <li>
-                <a href="https://facebook.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Facebook page (opens in a new tab)"><i
-                        class="fa-brands fa-facebook-square"></i></a>
-            </li>
-            <li>
-                <a href="https://twitter.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Twitter page (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
-            </li>
-            <li>
-                <a href="https://instagram.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Instagram page (opens in a new tab)"><i
-                        class="fa-brands fa-instagram"></i></a>
-            </li>
-        </ul>
-    </footer>
-
-    <!-- font awesome script-->
-    <script src="https://kit.fontawesome.com/e1c15cda64.js" crossorigin="anonymous"></script>
+        <!-- font awesome script-->
+        <script src="https://kit.fontawesome.com/e1c15cda64.js" crossorigin="anonymous"></script>
+    </main>
 </body>
 
 </html>

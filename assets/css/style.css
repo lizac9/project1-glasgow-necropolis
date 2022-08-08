@@ -22,7 +22,7 @@ h1 {
 #logo {
     float: left;
     font-size: 230%;
-    margin-left: 30px;
+    margin-left: 1em;
 }
 
 /* navigation links */
@@ -30,17 +30,23 @@ h1 {
 #menu {
     font-size: 110%;
     /* letter-spacing: ; */
+    display: flex;
+    flex-direction: row-reverse;
+
 }
 
 #menu,
 #logo {
-    line-height: 75px;
+    line-height: 75px; /*how to change it to % */
+
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 1.87em;
+    padding: 0;
+
 }
 
 #menu a {
@@ -59,15 +65,15 @@ h1 {
 /* Glasgow Necro Image */
 
 #glasgow-necro-outer {
-    height: 400px;
-    width: 100%;
+    
+    max-width: 100%;
     overflow: hidden;
 
 }
 
 #glasgow-necro {
-    height: 400px;
-    width: 100%;
+    max-height: 100%;
+    max-width: 100%;
     background: url('../images/glasgow-necro.JPG') no-repeat center center;
     background-size: contain;
     /* animates zoom effect on loading page */
@@ -90,9 +96,9 @@ h1 {
 /* Location */
 
 #location {
-    height: 400px;
+    height: 25em;
 
-    padding-top: 30px;
+    padding-top: 0em;
     width: 33%;
     text-align: center;
     display: block;
@@ -117,7 +123,7 @@ h1 {
     width: 100%;
     height: 100%;
     border: 2px solid #36454F;
-    margin-bottom: 150px;
+    margin-bottom: 9em;
     opacity: 0.8;
 
     text-align: center;
@@ -127,7 +133,7 @@ h1 {
 /* Footer */
 
 footer {
-    height: 150px;
+    height: 9em;
 }
 
 .social-networks {
@@ -144,6 +150,7 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
 
 /* History */
 
@@ -179,7 +186,7 @@ footer {
     #glasgow-necro-outer,
     #glasgow-necro {
         width: 85%;
-        height: 400px;
+        
         margin: 0 auto;
     }
 
@@ -188,7 +195,7 @@ footer {
         float: left;
 
     }
-
+}
     /* how to center the map ??? */
     #map-wrapper,
     #map {
@@ -196,7 +203,7 @@ footer {
         height: 400px;
         margin: 0 auto;
     }
-}
+
 
 /* For medium screen sizes from 950px wide and down */
 @media screen and (max-width:950px) {
@@ -206,6 +213,8 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+        
+
     }
 
     #glasgow-necro-outer,
@@ -216,15 +225,19 @@ footer {
     }
 
 }
-
+*/
 /* Form: Book A Tour */
 
 #book-tour {
     width: 100%;
     height: 200px;
     margin: 0 auto;
-    display: block;
+
+    display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
 }
 
 #book-form {
@@ -307,3 +320,15 @@ label {
     border-radius: 2px;
 }
 
+/*Form Grid*/
+.form-grid {
+    display: grid;
+    gap: 3.5rem;
+
+}
+
+/*Index Grid*/
+.index-grid{
+    display: grid;
+    gap: 0.5rem;
+}
