@@ -266,7 +266,7 @@ label {
 }
 
 .text-input:hover {
-    background-color: #bcbcbc;
+    background-color: #e5e5e5;
     box-shadow: 1px 1px 1px #bcbcbc;
 }
 
@@ -284,9 +284,10 @@ label {
     color: #000000;
 }
 .queries-box:hover {
-    background-color: #bcbcbc;
+    background-color:#e5e5e5;
     box-shadow: 1px 1px 1px #bcbcbc;
 }
+
 #button-box {
     display: block;
     height: 50px;
