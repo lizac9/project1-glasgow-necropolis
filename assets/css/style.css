@@ -214,13 +214,11 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
         
-
     }
 
-    #glasgow-necro-outer,
     #glasgow-necro {
         width: 85%;
-        height: 400px;
+        height: 200px;
         margin: 0 auto;
     }
 
