@@ -113,7 +113,7 @@ h1 {
 /* Map section  : How to center the map!? */
 
 #map-wrapper {
-    height: 300px;
+    
     width: 100%;
 
     display: block;
@@ -204,7 +204,6 @@ footer {
     #map-wrapper,
     #map {
         width: 85%;
-        height: 400px;
         margin: 0 auto;
     }
 
