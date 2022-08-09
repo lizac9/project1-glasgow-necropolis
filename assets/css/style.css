@@ -245,18 +245,21 @@ footer {
 #book-form>h2 {
     text-align: center;
     margin-bottom: 10px;
+    margin-left: 45px;
 }
 
 label {
     margin-left: 30%;
 }
 
+/* Text input */
+
 .text-input {
     display: block;
     width: 80%;
     height: 30px;
     letter-spacing: 2px;
-    margin: 5px 0 20px 10px;
+    margin: 5px 0 20px 50px;
     padding-left: 5px;
     background-color: transparent;
     font-size: 80%;
@@ -275,7 +278,7 @@ label {
     width: 80%;
     height: 30px;
     letter-spacing: 2px;
-    margin: 5px 0 20px 10px;
+    margin: 5px 0 20px 50px;
     padding-left: 5px;
     background-color: transparent;
     font-size: 80%;
@@ -287,6 +290,8 @@ label {
     background-color:#e5e5e5;
     box-shadow: 1px 1px 1px #bcbcbc;
 }
+
+/* Buttons */
 
 #button-box {
     display: block;
@@ -313,7 +318,6 @@ label {
 }
 
 
-
 #button-box {
     width: 90%;
     justify-content: left;
@@ -321,14 +325,14 @@ label {
 }
 
 .button {
-    margin: 5px 40px 0 0;
+    margin: 5px 40px;
     border-radius: 2px;
 }
 
 /*Form Grid*/
 .form-grid {
     display: grid;
-    gap: 3.5rem;
+    gap: 3%;
 
 }
 
