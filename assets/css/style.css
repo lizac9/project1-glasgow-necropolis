@@ -241,16 +241,13 @@ footer {
     border-radius: 10px;
     font-size: 100%;
     margin: 0 auto;
+    text-align: center;
 }
 
 #book-form>h2 {
     text-align: center;
     margin-bottom: 10px;
     
-}
-
-label {
-    margin-left: 30%;
 }
 
 /* Text input */
