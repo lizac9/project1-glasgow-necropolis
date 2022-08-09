@@ -94,6 +94,12 @@ h1 {
     }
 }
 
+/* Intro */
+#intro{
+    text-align: center;
+    margin: 0 auto;
+}
+
 /* Location */
 
 #location {
