@@ -229,7 +229,7 @@ footer {
 /* Form: Book A Tour */
 
 #book-tour {
-    width: 100%;
+    width: 80%;
     height: 100%;
 
 }
@@ -240,12 +240,13 @@ footer {
     color: #3a3a3a;
     border-radius: 10px;
     font-size: 100%;
+    margin: 0 auto;
 }
 
 #book-form>h2 {
     text-align: center;
     margin-bottom: 10px;
-    margin-left: 45px;
+    
 }
 
 label {
