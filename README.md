@@ -94,27 +94,25 @@ The website was also tested through Lighthouse on Chrome for its Accessibility S
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps:
-1. In the GitHub repository, navigate to the Settings tab
-2. From the source section drop-down menu, select the Master Branch
+1. In the GitHub repository, navigate to the Settings tab.
+2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-4. The live link can be found [HERE - Glasgow Necropolis](https://lizac9.github.io/project1-glasgow-necropolis/)
+4. The live link can be found [HERE - Glasgow Necropolis](https://lizac9.github.io/project1-glasgow-necropolis/).
 
 
 ## Credits
 
-- Content:
+1. Content:
+- The content for the History was taken from Glasgow Necropolis article in [Wikipedia](https://en.wikipedia.org/wiki/Glasgow_Necropolis#History) and [Atlas Obscura](https://www.atlasobscura.com/places/glasgow-necropolis).
 
-The content for the History was taken from Glasgow Necropolis article in [Wikipedia](https://en.wikipedia.org/wiki/Glasgow_Necropolis#History) and [Atlas Obscura](https://www.atlasobscura.com/places/glasgow-necropolis).
-
-- Media:
-
-The image used on the Home Index page was taken with a analog film camera Minolta X-700 by me.
+2. Media:
+- The image used on the Home Index page was taken with a analog film camera Minolta X-700 by me.
 The image used for the History page was taken from the [Glasgow Necropolis.org](https://www.glasgownecropolis.org/) website. 
 
 ## Acknowledgements
 
-- Martina Terlevic: My mentor, for all her guidance and expertise. 
-- Lauren-Nicole: Fellow student, for her patience and assistance.
+- Martina Terlevic: My mentor, for all their guidance and expertise. 
+- Lauren-Nicole: Fellow student, for their patience and assistance.
 - Code Institute for their support.
 
 
