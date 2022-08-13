@@ -70,6 +70,7 @@ h1 {
 
     max-width: 100%;
     overflow: hidden;
+    text-align: center;
 
 }
 
@@ -237,7 +238,7 @@ footer {
 }
 
 #book-form {
-    width: 50%;
+    width: 70%;
     height: 800px;
     color: #3a3a3a;
     border-radius: 10px;
