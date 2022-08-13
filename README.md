@@ -6,6 +6,30 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 
 ![Site view across devices](https://res.cloudinary.com/lizac/image/upload/v1660419630/project1-glasgow-necropolis/screens1_xzxsm8.png)
 
+## Table of Contents
++ [UX/UI](#UX/UI "UX/UI")
+  + [Colour Scheme](#Colour-Scheme "Colour Scheme")
+  + [Typography](#Typography "Typography")
++ [Existing Features](#Existing-Features "Existing Features")
+  + [Navigation Bar](#Navigation-Bar "Navigation Bar")
+  + [The Landing Page Image](#The-Landing-Page-Image "The Landing Page Image")
+  + [Intro section](#Intro-section "Intro section")
+  + [Location and Opening Hours Section](#Location "Location and Opening Hours Section")
+  + [Footer Section](#Footer-Section "Footer Section")
+  + [History Section](#History-Section "History Section")
+  + [Book a Tour](#Book "Book a Tour")
++ [Technologies Used](#technologies-used "Technologies Used")
+  + [Languages Used](#languages-used "Languages Used")
++ [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used "Frameworks, Libraries & Programs Used")
++ [Testing](#testing "Testing")
+  + [Validator Testing](#validator-testing "Validator Testing")
+  + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
++ [Deployment](#deployment "Deployment")
++ [Credits](#credits "Credits")
+  + [Content](#content "Content")
+  + [Media](#media "Media")
++ [Acknowledgements](#Acknowledgements "Acknowledgements")
+
 ## Features:
 
 ### UI/UX:
@@ -51,7 +75,7 @@ In the event of creating print media, the previous use of grey scale in the “b
     - This section is dedicated to the cemetery's social media links. 
     - The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
 
-![Sociallinks](https://res.cloudinary.com/lizac/image/upload/v1660420469/project1-glasgow-necropolis/socialmediaicons_gxxbuj.png)
+![Social links](https://res.cloudinary.com/lizac/image/upload/v1660420469/project1-glasgow-necropolis/socialmediaicons_gxxbuj.png)
 
 4. History Section:
 
@@ -83,7 +107,8 @@ In the event of creating print media, the previous use of grey scale in the “b
     - Balsamiq was used to create the wireframes during the design process.
 6. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
     - This application was used for visualization of responsiveness.
-
+7. [Cloudinary](https://cloudinary.com/):
+    - Cloudinary was used to store and link the images.
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
