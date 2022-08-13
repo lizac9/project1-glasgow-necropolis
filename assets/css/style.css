@@ -340,3 +340,9 @@ footer {
     display: grid;
     gap: 0.5rem;
 }
+
+/* Thank you message */
+
+.thankyou {
+    text-align: center;
+}
