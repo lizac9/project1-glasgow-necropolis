@@ -7,17 +7,17 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 ![Site view across devices](https://res.cloudinary.com/lizac/image/upload/v1660419630/project1-glasgow-necropolis/screens1_xzxsm8.png)
 
 ## Table of Contents
-+ [UX/UI](#UX/UI "UX/UI")
-  + [Colour Scheme](#Colour-Scheme "Colour Scheme")
-  + [Typography](#Typography "Typography")
-+ [Existing Features](#Existing-Features "Existing Features")
-  + [Navigation Bar](#Navigation-Bar "Navigation Bar")
++ [UX/UI](#uiux "UX/UI")
+  + [Colour Scheme](#colour-scheme "Colour Scheme")
+  + [Typography](#typography "Typography")
++ [Existing Features](#existing "Existing Features")
+  + [Navigation Bar](#navbar "Navigation Bar")
   + [The Landing Page Image](#The-Landing-Page-Image "The Landing Page Image")
-  + [Intro section](#Intro-section "Intro section")
-  + [Location and Opening Hours Section](#Location "Location and Opening Hours Section")
-  + [Footer Section](#Footer-Section "Footer Section")
-  + [History Section](#History-Section "History Section")
-  + [Book a Tour](#Book "Book a Tour")
+  + [Intro](#intro "Intro")
+  + [Location and Opening Hours](#Location "Location and Opening Hours")
+  + [Footer](#footer "Footer")
+  + [History](#history "History")
+  + [Book a Tour](#book "Book a Tour")
 + [Technologies Used](#technologies-used "Technologies Used")
   + [Languages Used](#languages-used "Languages Used")
 + [Frameworks, Libraries & Programs Used](#frameworks-libraries-programs-used "Frameworks, Libraries & Programs Used")
@@ -28,7 +28,7 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 + [Credits](#credits "Credits")
   + [Content](#content "Content")
   + [Media](#media "Media")
-+ [Acknowledgements](#Acknowledgements "Acknowledgements")
++ [Acknowledgements](#acknowledgements "Acknowledgements")
 
 ## Features:
 
@@ -57,27 +57,27 @@ In the event of creating print media, the previous use of grey scale in the “b
 
 ![Index](https://res.cloudinary.com/lizac/image/upload/v1660418340/project1-glasgow-necropolis/glasgow-necro_lsgjbd.jpg)
 
-3. Intro section:
+3. Intro:
 
     - The introduction is brief and informative. It emphasises the cemetery's position in the history of Europe and highlights the beautiful juxtapositions between the cemetery and the city that surrounds it. 
 
 ![intro](https://res.cloudinary.com/lizac/image/upload/v1660420250/project1-glasgow-necropolis/intro_zzkdbi.png)
 
 
-2. Location and Opening Hours Section:
+2. Location and Opening Hours:
 
     - Information provided to the webpage visitor on the cemetery's location and its opening hours. 
     - There is a detailed map provided to include coordinates of the cemetery.
 
 
-3. Footer Section:
+3. Footer:
 
     - This section is dedicated to the cemetery's social media links. 
     - The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
 
 ![Social links](https://res.cloudinary.com/lizac/image/upload/v1660420469/project1-glasgow-necropolis/socialmediaicons_gxxbuj.png)
 
-4. History Section:
+4. History:
 
     - This section expands on the websites introductory information. A general overview of the cemetery's history is displayed for the visitor. 
 
