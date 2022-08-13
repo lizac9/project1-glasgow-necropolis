@@ -32,7 +32,7 @@ In the event of creating print media, the previous use of grey scale in the “b
 
 3. Intro section:
 
-    - The introduction is brief and informative.It emphasises the cemetery's position in the history of Europe and highlights the beautiful juxtapositions between the cemetery and the city that surrounds it. 
+    - The introduction is brief and informative. It emphasises the cemetery's position in the history of Europe and highlights the beautiful juxtapositions between the cemetery and the city that surrounds it. 
 
 
 2. Location and Opening Hours Section:
@@ -60,21 +60,23 @@ In the event of creating print media, the previous use of grey scale in the “b
 
 ## Technologies Used
 ### Languages Used
-- HTML5
-- CSS3
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Frameworks, Libraries & Programs Used
 
-1. Google Fonts:
+1. [Google Fonts](https://fonts.google.com/):
     - Google fonts were used to import the 'IM Fell English' and 'Grenze Gothish' font into the style.css file which is used on all pages throughout the project.
-2. Font Awesome:
+2. [Font Awesome](https://fontawesome.com/):
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-3. Git:
+3. [Git](https://git-scm.com/):
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-4. GitHub:
+4. [GitHub](https://github.com/):
     - GitHub is used to store the project's code after being pushed from Git.
-5. Balsamiq:
+5. [Balsamiq](https://balsamiq.com/):
     - Balsamiq was used to create the wireframes during the design process.
+6. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
+    - This application was used for visualization of responsiveness.
 
 ## Testing
 
@@ -94,11 +96,13 @@ The project was deployed to GitHub Pages using the following steps:
 
 ## Credits
 
-- Content
+- Content:
+
 The content for the History was taken from Glasgow Necropolis article in [Wikipedia](https://en.wikipedia.org/wiki/Glasgow_Necropolis#History) and [Atlas Obscura](https://www.atlasobscura.com/places/glasgow-necropolis)
 
-- Media
-The image used on the Home Index page was taken by me.
+- Media:
+
+The image used on the Home Index page was taken with a analog film camera Minolta X-700 by me.
 The image used for the History page was taken from the [Glasgow Necropolis.org](https://www.glasgownecropolis.org/) website. 
 
 ## Acknowledgements
