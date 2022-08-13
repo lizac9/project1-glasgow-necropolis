@@ -4,7 +4,7 @@
 
 This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. The purpose of this website is to provide practical information about the location, history and opening hours of the Necropolis. The website also includes the option to book a tour using an interactive form and contains some photographic resources to encourage tourism.
 
-2- Sreenshot of diferent sizes:
+![Site view across devices](https://res.cloudinary.com/lizac/image/upload/v1660419630/project1-glasgow-necropolis/screens1_xzxsm8.png)
 
 ## Features:
 
@@ -24,15 +24,20 @@ In the event of creating print media, the previous use of grey scale in the “b
     - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, History and Book a Tour page and is identical in each page to allow for easy navigation.
     Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website.
 
+    ![Navigation bar](https://res.cloudinary.com/lizac/image/upload/v1660419935/project1-glasgow-necropolis/navigation_bar_byewas.png)
+
 
 2. The Landing Page Image:
 
     - The landing page image shows one of the mausoleums from the Cemetery, this visually engages the visitor upon entering the website.
 
+![Index](https://res.cloudinary.com/lizac/image/upload/v1660418340/project1-glasgow-necropolis/glasgow-necro_lsgjbd.jpg)
 
 3. Intro section:
 
     - The introduction is brief and informative. It emphasises the cemetery's position in the history of Europe and highlights the beautiful juxtapositions between the cemetery and the city that surrounds it. 
+
+![intro](https://res.cloudinary.com/lizac/image/upload/v1660420250/project1-glasgow-necropolis/intro_zzkdbi.png)
 
 
 2. Location and Opening Hours Section:
@@ -46,6 +51,7 @@ In the event of creating print media, the previous use of grey scale in the “b
     - This section is dedicated to the cemetery's social media links. 
     - The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
 
+![Sociallinks](https://res.cloudinary.com/lizac/image/upload/v1660420469/project1-glasgow-necropolis/socialmediaicons_gxxbuj.png)
 
 4. History Section:
 
@@ -98,7 +104,7 @@ The project was deployed to GitHub Pages using the following steps:
 
 - Content:
 
-The content for the History was taken from Glasgow Necropolis article in [Wikipedia](https://en.wikipedia.org/wiki/Glasgow_Necropolis#History) and [Atlas Obscura](https://www.atlasobscura.com/places/glasgow-necropolis)
+The content for the History was taken from Glasgow Necropolis article in [Wikipedia](https://en.wikipedia.org/wiki/Glasgow_Necropolis#History) and [Atlas Obscura](https://www.atlasobscura.com/places/glasgow-necropolis).
 
 - Media:
 

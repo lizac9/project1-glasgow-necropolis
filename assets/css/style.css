@@ -77,7 +77,7 @@ h1 {
 #glasgow-necro {
     height: 600px;
     max-width: 100%;
-    background: url('../images/glasgow-necro.JPG') no-repeat center center;
+    background: url(https://res.cloudinary.com/lizac/image/upload/v1660418340/project1-glasgow-necropolis/glasgow-necro_lsgjbd.jpg) /*('../images/glasgow-necro.JPG')*/ no-repeat center center;
     background-size: contain;
     /* animates zoom effect on loading page */
     animation-name: glasgow-necro-zoom;
