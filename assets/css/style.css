@@ -38,7 +38,8 @@ h1 {
 
 #menu,
 #logo {
-    line-height: 75px; /*how to change it to % */
+    line-height: 75px;
+    /*how to change it to % */
 
 }
 
@@ -66,7 +67,7 @@ h1 {
 /* Glasgow Necro Image */
 
 #glasgow-necro-outer {
-    
+
     max-width: 100%;
     overflow: hidden;
 
@@ -95,7 +96,7 @@ h1 {
 }
 
 /* Intro */
-#intro{
+#intro {
     text-align: center;
     margin: 0 auto;
     width: 70%;
@@ -113,7 +114,7 @@ h1 {
 /* Map section  : How to center the map!? */
 
 #map-wrapper {
-    
+
     width: 100%;
 
     display: block;
@@ -190,7 +191,7 @@ footer {
     #glasgow-necro-outer,
     #glasgow-necro {
         width: 85%;
-        
+
         margin: 0 auto;
     }
 
@@ -200,12 +201,13 @@ footer {
 
     }
 }
-    /* how to center the map ??? */
-    #map-wrapper,
-    #map {
-        width: 85%;
-        margin: 0 auto;
-    }
+
+/* how to center the map ??? */
+#map-wrapper,
+#map {
+    width: 85%;
+    margin: 0 auto;
+}
 
 
 /* For medium screen sizes from 950px wide and down */
@@ -216,7 +218,7 @@ footer {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
-        
+
     }
 
     #glasgow-necro {
@@ -226,13 +228,12 @@ footer {
     }
 
 }
-*/
+
 /* Form: Book A Tour */
 
 #book-tour {
     width: 80%;
     height: 100%;
-
 }
 
 #book-form {
@@ -248,7 +249,7 @@ footer {
 #book-form>h2 {
     text-align: center;
     margin-bottom: 10px;
-    
+
 }
 
 /* Text input */
@@ -285,8 +286,9 @@ footer {
     border-radius: 5px;
     color: #000000;
 }
+
 .queries-box:hover {
-    background-color:#e5e5e5;
+    background-color: #e5e5e5;
     box-shadow: 1px 1px 1px #bcbcbc;
 }
 
@@ -336,7 +338,7 @@ footer {
 }
 
 /*Index Grid*/
-.index-grid{
+.index-grid {
     display: grid;
     gap: 0.5rem;
 }
