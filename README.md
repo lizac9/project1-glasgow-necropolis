@@ -25,6 +25,7 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 + [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 + [Testing](#testing)
   + [Validator Testing](#validator-testing)
+  + [Manual Testing](#manual-testing)
   + Bugs
 + [Deployment](#deployment)
 + [Credits](#credits)
@@ -35,7 +36,7 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 ## Features:
 ### UI/UX:
 #### **Colour Scheme:**
-- The main colours used are in a grey scale. The text is pulled the text forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website, maintaining a balance and consistency throughout. 
+- The main colours used are in a grey scale. The text is pulled forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website, maintaining a balance and consistency throughout. 
 In the event of creating print media, the previous use of grey scale in the “branding” of the Necropolis will be far more cost effective in printing and designing expenses. 
 
 #### **Typography:**
@@ -131,6 +132,17 @@ The website was also tested through Lighthouse on Chrome for its Accessibility S
 
 [Back to Top](#glasgow-necropolis)
 
+#### **Manual Testing:**
+|  Feature | Expectation | Action | Result|
+|-------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------|
+| **Logo Icon** | Home page will open when clicked | Click Logo Icon | Home page opened when clicked |
+| **Navigation Menu** | The page will open when clicked | Click menu links | Taken to selected page |
+| **Social link icons** | To go to external link | Click on icon | Social link opens on new page |
+| **Required form fields** | If the text boxes are left blank, they will highlight with the message | Incomplete form | Form does not submit and highlights empty boxes|
+| **Form submit button** | When the submit button is pressed, the form submits| Complete form | Thank you page opens 
+
+[Back to Top](#glasgow-necropolis)
+
 ## Deployment
 The project was deployed to GitHub Pages using the following steps:
 1. In the GitHub repository, navigate to the Settings tab.
@@ -146,7 +158,7 @@ The project was deployed to GitHub Pages using the following steps:
 - The content for the History was taken from Glasgow Necropolis article in [Wikipedia](https://en.wikipedia.org/wiki/Glasgow_Necropolis#History) and [Atlas Obscura](https://www.atlasobscura.com/places/glasgow-necropolis).
 
 #### **Media:**
-- The image used on the Home Index page was taken with a analog film camera Minolta X-700 by me.
+- The image used on the Home Index page was taken with an analog film camera Minolta X-700 by me.
 The image used for the History page was taken from the [Glasgow Necropolis.org](https://www.glasgownecropolis.org/) website. 
 
 [Back to Top](#glasgow-necropolis)
