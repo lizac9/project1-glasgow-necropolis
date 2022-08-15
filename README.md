@@ -33,7 +33,6 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 + [Acknowledgements](#acknowledgements)
 
 ## Features:
-
 ### UI/UX:
 #### **Colour Scheme:**
 - The main colours used are in a grey scale. The text is pulled the text forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website, maintaining a balance and consistency throughout. 
@@ -42,8 +41,9 @@ In the event of creating print media, the previous use of grey scale in the “b
 #### **Typography:**
 - The IM Fell English font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The website header uses Grenze Gotish font with sans-serif as backup. The fonts stylised but tidy and legible appearance were my reasons for choosing it for this website. This font compliments the visual atmosphere of the Necropolis itself, without being too distracting.
 
-### Existing Features:
+[Back to Top](#glasgow-necropolis)
 
+### Existing Features:
 
 #### **Navigation Bar:**
 
@@ -90,10 +90,14 @@ Through the navigation bar, the user can easily move around and take full advant
 - The form is filled in and submitted. The user is then notified with a confirmation message on a new page. 
 
 [Back to Top](#glasgow-necropolis)
+
 ## Technologies Used
+
 ### **Languages Used:**
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+[Back to Top](#glasgow-necropolis)
 
 ## Frameworks, Libraries & Programs Used
 
@@ -123,6 +127,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
+![Lighthouse](https://res.cloudinary.com/lizac/image/upload/v1660581098/project1-glasgow-necropolis/lighthouse_vmbcgn.png)
+
+[Back to Top](#glasgow-necropolis)
+
 ## Deployment
 The project was deployed to GitHub Pages using the following steps:
 1. In the GitHub repository, navigate to the Settings tab.
@@ -131,6 +139,7 @@ The project was deployed to GitHub Pages using the following steps:
 4. The live link can be found [HERE - Glasgow Necropolis](https://lizac9.github.io/project1-glasgow-necropolis/).
 
 [Back to Top](#glasgow-necropolis)
+
 ## Credits
 
 #### **Content:**
@@ -139,6 +148,8 @@ The project was deployed to GitHub Pages using the following steps:
 #### **Media:**
 - The image used on the Home Index page was taken with a analog film camera Minolta X-700 by me.
 The image used for the History page was taken from the [Glasgow Necropolis.org](https://www.glasgownecropolis.org/) website. 
+
+[Back to Top](#glasgow-necropolis)
 
 ## Acknowledgements
 
