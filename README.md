@@ -26,7 +26,7 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
 + [Testing](#testing)
   + [Validator Testing](#validator-testing)
   + [Manual Testing](#manual-testing)
-  + Bugs
+  + [Debugging](#debugging)
 + [Deployment](#deployment)
 + [Credits](#credits)
   + [Content](#content)
@@ -142,6 +142,9 @@ The website was also tested through Lighthouse on Chrome for its Accessibility S
 | **Form submit button** | When the submit button is pressed, the form submits| Complete form | Thank you page opens 
 
 [Back to Top](#glasgow-necropolis)
+
+#### **Debugging:**
+The responsiveness of the website was challenging in general. The book a tour page was particularly difficult, the social media icons would be appear in the middle of the form instead of the bottom footer. This was resolved by assigning a specific height in pixels to the book form id. Then when it started to take shape, the form was not centered. This was fixed with a margin: 0 auto; applied in each part of the form boxes and buttons boxes. Devs tools and the application Am I responsive? help to visualize and resolve issues associated with using different screen sizes to display media. The website was launched in different browsers such as Chrome, Firefox and Microsoft Edge. Throughout the entire development, the website was tested in each phase.
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps:
