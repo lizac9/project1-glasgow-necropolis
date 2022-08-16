@@ -325,7 +325,7 @@ footer {
 #button-box {
     width: 90%;
     justify-content: left;
-    margin: 30px 0 0 10px;
+    margin: 0 auto;
 }
 
 .button {

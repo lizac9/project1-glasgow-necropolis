@@ -161,7 +161,6 @@ The project was deployed to GitHub Pages using the following steps:
 - The image used on the Home Index page was taken with an analog film camera Minolta X-700 by me.
 The image used for the History page was taken from the [Glasgow Necropolis.org](https://www.glasgownecropolis.org/) website. 
 
-[Back to Top](#glasgow-necropolis)
 
 ## Acknowledgements
 
