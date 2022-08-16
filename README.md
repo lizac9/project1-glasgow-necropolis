@@ -123,8 +123,8 @@ Through the navigation bar, the user can easily move around and take full advant
 
 #### **Validator Testing:**
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- W3C Markup Validator - Results
-- W3C CSS Validator - Results
+- [W3C Markup Validator - Results](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Flizac9.github.io%2Fproject1-glasgow-necropolis%2Fform.html)
+- [W3C CSS Validator - Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flizac9.github.io%2Fproject1-glasgow-necropolis%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
