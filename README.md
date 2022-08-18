@@ -28,6 +28,7 @@ This is a website promoting Glasgow Necropolis, situated in Glasgow, Scotland. T
   + [Manual Testing](#manual-testing)
   + [Debugging](#debugging)
 + [Deployment](#deployment)
+  + [Commits](#commits)
 + [Credits](#credits)
   + [Content](#content)
   + [Media](#media)
@@ -152,6 +153,9 @@ The project was deployed to GitHub Pages using the following steps:
 2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 4. The live link can be found [HERE - Glasgow Necropolis](https://lizac9.github.io/project1-glasgow-necropolis/).
+
+#### **Commits:**
+Some of the commits messages are not as precise as I would have wanted them to be. In the last couple of months I have been struggling to find a place to live, this had a negative impact on the project.
 
 [Back to Top](#glasgow-necropolis)
 
